@@ -39,3 +39,12 @@ Recommended packages that work with multiple formats.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780327
+- Update to latest release.
+- Import texlive-collection-genericrecommended
+- Import texlive-collection-genericrecommended
+
