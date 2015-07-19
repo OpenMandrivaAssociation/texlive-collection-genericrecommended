@@ -7,7 +7,7 @@
 Name:		texlive-collection-genericrecommended
 Epoch:		1
 Version:	20131013
-Release:	8
+Release:	9
 Summary:	Generic recommended packages
 Group:		Publishing
 URL:		http://tug.org/texlive
