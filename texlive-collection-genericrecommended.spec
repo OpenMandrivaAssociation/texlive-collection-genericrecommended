@@ -10,7 +10,7 @@ Version:	20131013
 Release:	12
 Summary:	Generic recommended packages
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-genericrecommended.tar.xz
 BuildArch:	noarch
